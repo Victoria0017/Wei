@@ -183,6 +183,11 @@ a:hover {
 }
 
 /* About */
+
+table {
+  border-radius: 20px;
+}
+
 .history {
   width: 30%;
   line-height: 0.5;
