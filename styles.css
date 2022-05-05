@@ -78,13 +78,13 @@ table {
 
 .top-cloud {
   position: absolute;
-  right: 400px;
-  top: 40px;
+  right: 550px;
+  top: 100px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 350px;
+  left: 550px;
   bottom: 350px;
 }
 
